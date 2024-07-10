@@ -1,0 +1,132 @@
+[
+    {
+        "pertanyaan": "Apa yang dimaksud dengan wudhu?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Mudah",
+        "jawaban": [
+            "Wudhu adalah membersihkan anggota tubuh tertentu dengan air.",
+            "Wudhu adalah mencuci seluruh tubuh dengan air.",
+            "Wudhu adalah mencuci tangan dan kaki saja.",
+            "Wudhu adalah mandi dengan air."
+        ],
+        "jawaban_benar": "Wudhu adalah membersihkan anggota tubuh tertentu dengan air.",
+        "penjelasan": "Wudhu merupakan salah satu cara bersuci dengan membersihkan anggota tubuh tertentu seperti wajah, tangan, kepala, dan kaki menggunakan air."
+    },
+    {
+        "pertanyaan": "Berapa kali kita harus mencuci wajah saat berwudhu?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Mudah",
+        "jawaban": [
+            "Satu kali",
+            "Dua kali",
+            "Tiga kali",
+            "Empat kali"
+        ],
+        "jawaban_benar": "Tiga kali",
+        "penjelasan": "Sunnah mencuci wajah tiga kali saat berwudhu, meskipun satu kali sudah mencukupi."
+    },
+    {
+        "pertanyaan": "Apa rukun wudhu yang pertama?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Menengah",
+        "jawaban": [
+            "Membasuh wajah",
+            "Niat",
+            "Membasuh tangan",
+            "Membasuh kaki"
+        ],
+        "jawaban_benar": "Niat",
+        "penjelasan": "Rukun wudhu yang pertama adalah niat, yang harus dilakukan di dalam hati untuk melakukan wudhu."
+    },
+    {
+        "pertanyaan": "Apa saja yang membatalkan wudhu?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Menengah",
+        "jawaban": [
+            "Makan dan minum",
+            "Tidur nyenyak",
+            "Berjalan",
+            "Berbicara"
+        ],
+        "jawaban_benar": "Tidur nyenyak",
+        "penjelasan": "Tidur nyenyak bisa menyebabkan wudhu batal karena kemungkinan keluarnya hadas saat tidur."
+    },
+    {
+        "pertanyaan": "Berapa kali kita harus mencuci tangan kanan dan kiri saat berwudhu?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Mudah",
+        "jawaban": [
+            "Satu kali",
+            "Dua kali",
+            "Tiga kali",
+            "Empat kali"
+        ],
+        "jawaban_benar": "Tiga kali",
+        "penjelasan": "Sunnah mencuci tangan kanan dan kiri tiga kali saat berwudhu, meskipun satu kali sudah mencukupi."
+    },
+    {
+        "pertanyaan": "Apa arti tayamum?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Mudah",
+        "jawaban": [
+            "Bersuci dengan menggunakan air",
+            "Bersuci dengan menggunakan debu",
+            "Bersuci dengan menggunakan tanah",
+            "Bersuci dengan menggunakan batu"
+        ],
+        "jawaban_benar": "Bersuci dengan menggunakan debu",
+        "penjelasan": "Tayamum adalah bersuci menggunakan debu ketika tidak ada air atau ada halangan menggunakan air."
+    },
+    {
+        "pertanyaan": "Apa hukum wudhu sebelum sholat?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Mudah",
+        "jawaban": [
+            "Wajib",
+            "Sunah",
+            "Makruh",
+            "Mubah"
+        ],
+        "jawaban_benar": "Wajib",
+        "penjelasan": "Wudhu adalah wajib sebelum sholat karena termasuk syarat sahnya sholat."
+    },
+    {
+        "pertanyaan": "Kapan waktu pelaksanaan sholat subuh?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Mudah",
+        "jawaban": [
+            "Setelah terbit matahari",
+            "Sebelum terbit matahari",
+            "Setelah terbenam matahari",
+            "Sebelum terbenam matahari"
+        ],
+        "jawaban_benar": "Sebelum terbit matahari",
+        "penjelasan": "Sholat subuh dilakukan sebelum terbit matahari, dimulai dari waktu fajar hingga terbit matahari."
+    },
+    {
+        "pertanyaan": "Apa yang harus dilakukan jika tidak menemukan air untuk wudhu?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Menengah",
+        "jawaban": [
+            "Tayamum",
+            "Sholat tanpa wudhu",
+            "Menunggu sampai ada air",
+            "Menggunakan air laut"
+        ],
+        "jawaban_benar": "Tayamum",
+        "penjelasan": "Jika tidak menemukan air untuk wudhu, seseorang bisa tayamum menggunakan debu yang bersih."
+    },
+    {
+        "pertanyaan": "Apa saja syarat sah sholat?",
+        "kategori": "Fiqih Dasar",
+        "tingkat_kesulitan": "Menengah",
+        "jawaban": [
+            "Berpakaian bersih, suci dari hadas, menghadap kiblat, mengetahui waktu sholat",
+            "Berpakaian bersih, suci dari hadas, mengetahui waktu sholat, tidak makan sebelum sholat",
+            "Berpakaian bersih, suci dari hadas, menghadap kiblat, tidak minum sebelum sholat",
+            "Berpakaian bersih, mengetahui waktu sholat, menghadap kiblat, tidak bicara selama sholat"
+        ],
+        "jawaban_benar": "Berpakaian bersih, suci dari hadas, menghadap kiblat, mengetahui waktu sholat",
+        "penjelasan": "Syarat sah sholat meliputi berpakaian bersih, suci dari hadas, menghadap kiblat, dan mengetahui waktu sholat."
+    }
+]

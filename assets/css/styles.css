@@ -1,0 +1,22 @@
+:root {
+    --hejo: #365E32;
+    --bodas: #fff;
+    --ijo2: #81A263;
+    --koneng: #E7D37F;
+    --oren: #FD9B63;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: var(--bodas);
+    position: relative;
+    display: flex;
+    /* margin-inline: ; */
+}   
